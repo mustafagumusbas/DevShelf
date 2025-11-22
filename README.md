@@ -52,3 +52,12 @@ Ayrıca proje adını yazarak doğrudan proje detaylarını görebilirsiniz! �
 1. Depoyu klonlayın:  
 ```bash
 git clone https://github.com/kullaniciadi/portfolio-bot.git
+```
+2. Gereksinimleri yükleyin:
+```bash
+pip install -r requirements.txt
+```
+3. config.py dosyasına botunuzun tokenini girin.  
+
+4. Botu çalıştırın
+
